@@ -12,7 +12,8 @@ The Excel file contains:
 - Interactive Dashboard Sheet
 - 
  ## 📁 Project File
-![Download Excel Sheet](./Sales_Dashboard.xlsx)
+[Download Excel Sheet](./Sales_Dashboard.xlsx)
+
 ![Download Excel Dashboard](./dashboard.png)
 
 ## 🛠 Tools & Techniques Used
